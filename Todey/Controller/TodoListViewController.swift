@@ -89,7 +89,7 @@ class TodoListViewController: UITableViewController {
         
         let alert = UIAlertController(title: "Add new Todo Item", message: "", preferredStyle: .alert)
         
-        let action = UIAlertAction(title: "Add New Item", style: .default) { (action) in
+        let action = UIAlertAction(title: "Add Item", style: .default) { (action) in
             
             
             
